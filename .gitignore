@@ -16,12 +16,4 @@ allStar-l31c.2.fits
 allStarCannon-l31c.2.fits
 Cannon.csv
 .ipynb_checkpoints/GMM_UMAP-checkpoint.ipynb
-abundance_only_umap.png
-abundance_phase_space_umap.png
-abundance_velocity_umap.png
-bic_ab_phase.png
-bic_ab_pos.png
-bic_ab_vel.png
-masterdf_umap_gmm.png
-masterdf_umap.png
 .ipynb_checkpoints/cannon_project_final-checkpoint.ipynb
